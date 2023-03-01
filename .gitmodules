@@ -1,6 +1,6 @@
 [submodule "common"]
 	path = common
-	url = ../../cpp-port/common-port
+	url = ../common-port
 [submodule "graphics3d"]
 	path = graphics3d
 	url = ../../cpp-port/graphics3d-port
