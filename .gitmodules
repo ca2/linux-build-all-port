@@ -3,7 +3,7 @@
 	url = ../common-port
 [submodule "graphics3d"]
 	path = graphics3d
-	url = ../../cpp-port/graphics3d-port
+	url = ../graphics3d-port
 [submodule "base"]
 	path = base
 	url = ../base-port-linux
