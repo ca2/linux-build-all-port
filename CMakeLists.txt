@@ -7,3 +7,10 @@ if(INCLUDE_AUDIO)
     add_subdirectory(base/id3lib)
 
 endif()
+
+
+if(INCLUDE_OPENGL)
+
+    add_subdirectory(graphics3d/glad)
+
+endif()
