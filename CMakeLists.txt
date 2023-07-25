@@ -9,8 +9,18 @@ if(INCLUDE_AUDIO)
 endif()
 
 
+if(NOT ${HAS_SYSTEM_UNAC})
+
+    add_subdirectory(base/unac)
+
+endif()
+
+
 if(INCLUDE_OPENGL)
 
     add_subdirectory(graphics3d/glad)
 
 endif()
+
+
+
