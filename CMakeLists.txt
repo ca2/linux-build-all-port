@@ -16,6 +16,12 @@ if(NOT ${HAS_SYSTEM_UNAC})
 endif()
 
 
+if(INCLUDE_REDSHIFT)
+
+add_subdirectory(user-generation1/redshift)
+
+endif()
+
 if(INCLUDE_OPENGL)
 
     add_subdirectory(graphics3d/glad)
