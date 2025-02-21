@@ -16,7 +16,7 @@ if(NOT ${HAS_SYSTEM_UNAC})
 endif()
 
 
-if(INCLUDE_REDSHIFT)
+if(${INCLUDE_REDSHIFT})
 
 add_subdirectory(user-generation1/redshift)
 
