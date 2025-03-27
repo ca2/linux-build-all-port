@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/base/id3lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/base/unac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/debugbreak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/jwt-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/nanosvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/picojson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/rapidjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common/rapidjson/thirdparty/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/assimp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/assimp/assimp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/glad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/ktx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/ktx/KTX-Software" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/ktx/KTX-Software/tests/cts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/poly2tri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/tinygltf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/tinygltf/tinygltf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/tinyusdz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphics3d/tinyusdz/tinyusdz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-generation1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-generation1/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-generation1/imgui/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-generation1/redshift" vcs="Git" />
+  </component>
+</project>
