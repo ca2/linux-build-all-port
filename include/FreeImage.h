@@ -3,7 +3,7 @@
 //
 // Design and implementation by
 // - Floris van den Berg (flvdberg@wxs.nl)
-// - HervÅEDrolon (drolon@infonie.fr)
+// - HervÔøΩEDrolon (drolon@infonie.fr)
 //
 // Contributors:
 // - see changes log named 'Whatsnew.txt', see header of each .h and .cpp file
@@ -155,8 +155,10 @@ typedef uint8_t BYTE;
 typedef uint16_t WORD;
 typedef uint32_t DWORD;
 typedef int32_t LONG;
+#ifndef _LIBRAW_CLASS_H
 typedef int64_t INT64;
 typedef uint64_t UINT64;
+#endif
 #else
 // MS is not C99 ISO compliant
 typedef long BOOL;
