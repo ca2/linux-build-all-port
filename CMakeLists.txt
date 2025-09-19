@@ -32,7 +32,9 @@ endif()
 
 if(${ARCH_LIKE})
 
+    if(NOT ${HAS_SYSTEM_JPEG})
     add_subdirectory(imaging/port_jpeg)
+    endif()
     add_subdirectory(imaging/port_jxr)
     add_subdirectory(imaging/port_openexr)
     add_subdirectory(imaging/port_openjpeg)
