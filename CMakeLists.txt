@@ -22,7 +22,7 @@ add_subdirectory(user-generation1/redshift)
 
 endif()
 
-if(INCLUDE_OPENGL)
+if(${INCLUDE_OPENGL})
 
     add_subdirectory(graphics3d/glad)
     add_subdirectory(graphics3d/ktx)
